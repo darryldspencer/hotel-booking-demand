@@ -1,5 +1,5 @@
 # hotel-booking-demand
-Simple project to demonstrate data cleaning, descriptive statistics, and visualization from the [Kaggle website.](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand).
+Simple project to demonstrate data cleaning, descriptive statistics, and visualization. Data taken from the [Kaggle website.](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand).
 The data dictionary describing the data fields can be found in the original [paper.](https://www.sciencedirect.com/science/article/pii/S2352340918315191) 
 
 ## Data Cleaning
