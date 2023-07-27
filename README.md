@@ -10,6 +10,7 @@ The data dictionary describing the data fields can be found in the original [pap
   - Exploratory Data Analysis (EDA)
   - Data Visualization
   - Machine Learning Classification Algorithms: Logistic Regression, Random Forest, Artificial Neural Network, KNN, Naive Bayes, Support Vector Machines, Ensemble Method
+  - [Tableau Dashboard](https://public.tableau.com/app/profile/darryl.spencer/viz/HotelBookingDemandAnalysis_16904256930440/Dashboard1?publish=yes) ![Tableau Dashboard](TableauDashboard.PNG)
 
 It is part of a data science portfolio for Darryl D Spencer (darryl.d.spencer@gmail.com). You can see my professional profile on [LinkedIn](https://www.linkedin.com/in/darryldspencer/).
 
@@ -101,3 +102,7 @@ Classification Report for the Random Forest
 1. Use a model to predict room cancellations and incorporate that into your pricing or deposit policy. Each model achieved an accuracy much better than random guessing.
 2. The Random Forest algorithm performed the best. The variable, `feature_importances`, contains the ordered list in descending order of which variables were the most important in the decision-making process.
 3. If more precision information is desired on the impact of each variable, the coefficients in the logistic regression give you the [log-odds](https://www.statisticshowto.com/log-odds/) impact of each one.
+
+### Tableau Dashboard
+The [Tableau Dashboard](https://public.tableau.com/app/profile/darryl.spencer/viz/HotelBookingDemandAnalysis_16904256930440/Dashboard1?publish=yes) enables the user to interact with different views that communicate the nature of the hotel's business and filter by country. 
+![Tableau Dashboard](TableauDashboard.PNG)
